@@ -5,3 +5,5 @@ the format was forgotten and not discovered.
 known dev music.
 Sunkiss chen.
 d.c.t
+
+Todo: looking someone to create converter midi vgm etc to that format?
