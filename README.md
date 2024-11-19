@@ -5,7 +5,8 @@ Todo: looking someone to create converter midi vgm etc to that format?
 offset song 1 start at 9a0
 
 offset song 2 start at 9ac
-FF nop
+
+FF none / also useful 
 00
 f0
 30 instrument and volume
