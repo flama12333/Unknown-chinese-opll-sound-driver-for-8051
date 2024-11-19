@@ -236,3 +236,15 @@ not verified.
 3F - note C#9
 BF - note C#9
 7F - note D9
+
+offset song 1 start at 9a0
+
+offset song 2 start at 9ac
+
+FF none / also useful 
+00
+f0
+30 instrument and volume
+00
+20 lenght notes 
+21 musical notes
