@@ -248,3 +248,26 @@ f0
 00
 20 lenght notes 
 21 musical notes
+
+instrument bytes
+Instrument bytes  ym2413
+00 Nothing 
+10 Violin 
+20 Guitar 
+30 Piano 
+40 Flute 
+50 Clarinet 
+60 Oboe 
+70 Trumpet 
+80 Organ 
+90 Horn 
+A0 Synthsizer 
+B0 Harpichord 
+C0 Vibraphone 
+D0 Synthesizer Bass 
+E0 Wood Bass 
+F0 Electric Guitar
+
+
+
+
