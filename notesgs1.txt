@@ -267,6 +267,29 @@ C0 Vibraphone
 D0 Synthesizer Bass 
 E0 Wood Bass 
 F0 Electric Guitar
+offset. guan shing
+09A3 opll 1
+09A5 opll 2
+09A7 opll 3
+09A9 opll 4
+09AB opll 5
+09AD opll 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
