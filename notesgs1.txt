@@ -249,24 +249,6 @@ f0
 20 lenght notes 
 21 musical notes
 
-instrument bytes
-Instrument bytes  ym2413
-00 Nothing 
-10 Violin 
-20 Guitar 
-30 Piano 
-40 Flute 
-50 Clarinet 
-60 Oboe 
-70 Trumpet 
-80 Organ 
-90 Horn 
-A0 Synthsizer 
-B0 Harpichord 
-C0 Vibraphone 
-D0 Synthesizer Bass 
-E0 Wood Bass 
-F0 Electric Guitar
 offset. guan shing
 music 1
 09A3 opll 1
@@ -283,6 +265,37 @@ music 2
 09B5 opll 4
 09B7 opll 5
 09B9 opll 6 - drums
+
+instrument bytes
+0- Nothing 
+1- Violin 
+2- Guitar 
+3- Piano 
+4- Flute 
+5- Clarinet 
+6- Oboe 
+7- Trumpet 
+8- Organ 
+9- Horn 
+A- Synthsizer 
+B- Harpichord 
+C- Vibraphone 
+D- Synthesizer Bass 
+E- Wood Bass 
+F- Electric Guitar 
+example
+FF 00 F0 30 00 20 21
+
+
+
+meaning.
+FF 00 
+F0 
+3- instrument up to 15 instrument
+-0 volume ? 
+00 
+20 lenght notes 
+21 musical notes bytes
 
 
 
