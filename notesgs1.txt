@@ -268,15 +268,21 @@ D0 Synthesizer Bass
 E0 Wood Bass 
 F0 Electric Guitar
 offset. guan shing
+music 1
 09A3 opll 1
 09A5 opll 2
 09A7 opll 3
 09A9 opll 4
 09AB opll 5
-09AD opll 6
+09AD opll 6 -drums
 
-
-
+music 2
+09AF opll 1
+09B1 opll 2
+09B3 opll 3
+09B5 opll 4
+09B7 opll 5
+09B9 opll 6 - drums
 
 
 
